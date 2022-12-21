@@ -153,8 +153,90 @@ I7 = 2.16 mA, I8 = 1.64 mA, VA = -3.70 V,
 
 VB = -5.85 V, VC = -15.7 V
 
+#CAPITULO 10
+
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+
+ Disminuye
 
 
+
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 3 1026 T y el área
+de sección transversal mide 150 cm2
+
+37.5 uWb
+
+
+
+
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
+flujo en gauss.
+
+1000 G
+
+7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
+750 3 1026 Wb/At·m?
+
+597
+
+
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
+través de él?
+
+ 150 At
+
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+
+
+ (a) Campo electromagnético (b) Resorte
+
+
+
+
+13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+
+
+Fuerzas producidas por la interacción del campo electromagnético y el campo magnético permanente.
+
+
+
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del
+núcleo?
+
+Cambiando la corriente
+
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+
+Material A
+
+
+
+![image](https://user-images.githubusercontent.com/86561660/209003238-e31e05ca-c28e-4fdb-b2b3-180ca28c1a74.png)
+
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+
+La intensidad del campo magnético, la longitud del conductor
+expuesta al campo, y la velocidad de rotación del conductor.
+
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+
+. La ley de Lenz define la polaridad del voltaje inducido
+
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35. 
+
+El ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo
+
+
+
+* 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V
+el voltaje máximo
+
+![image](https://user-images.githubusercontent.com/86561660/209004047-b342725b-dca2-4480-8e42-50329f4761ca.png)
 
 
 
