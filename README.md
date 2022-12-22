@@ -8,7 +8,7 @@
  
  Interpretar los metodos para la solucion de circuitos 
 
- Entender la diferencia que esxite entre los diferentes metodos de resolucion de circuitos 
+ Entender la diferencia que existe entre los diferentes metodos de resolucion de circuitos 
 
  Conocer las propiedades magneticas y electromagneticas de los diferentes cuerpos.
 
@@ -25,10 +25,14 @@
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
 
-I1 = 371 mA; I2 = 143 mA
+
 
 
 ![image](https://user-images.githubusercontent.com/86561660/208932793-288292f9-b3a2-4abf-8b9e-edda4d1de32b.png)
+
+I1 = 371 mA; I2 = 143 mA
+
+
 
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
@@ -176,7 +180,7 @@ I7 = 2.16 mA, I8 = 1.64 mA, VA = -3.70 V,
 
 VB = -5.85 V, VC = -15.7 V
 
-#CAPITULO 10
+# CAPITULO 10
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
@@ -261,7 +265,7 @@ el voltaje máximo
 
 ![image](https://user-images.githubusercontent.com/86561660/209004047-b342725b-dca2-4480-8e42-50329f4761ca.png)
 
-5. VIDEO https://www.youtube.com/watch?v=23fCiERqe-k&t=27s&ab_channel=JosephFrancisco
+5. VIDEO https://www.youtube.com/watch?v=PJJYakR097g&ab_channel=JosephFrancisco
 
 6.	CONCLUSIONES
 
