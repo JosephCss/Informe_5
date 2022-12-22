@@ -1,5 +1,28 @@
 # Informe_5
 
+## 1.	Objetivo General 
+
+ Resolver ejercicios relacionados con analisis de ramas,lazos y nodos ademas de magnetismo y electromagentismo 
+ 
+ ## 2.	Objetivos 
+ 
+ Interpretar los metodos para la solucion de circuitos 
+
+ Entender la diferencia que esxite entre los diferentes metodos de resolucion de circuitos 
+
+ Conocer las propiedades magneticas y electromagneticas de los diferentes cuerpos.
+
+
+## 2.	Marco Teorico
+
+![analisi](https://user-images.githubusercontent.com/86561660/209114398-f1d4103c-95d7-4917-a4e0-53c9bdc17bdc.png)
+
+
+![analisis 2](https://user-images.githubusercontent.com/86561660/209114419-ee2f6e54-3797-493a-8264-e50e06397b1c.png)
+
+## 4.	Explicación y resolución de ejercicios o problemas
+
+
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
 
 I1 = 371 mA; I2 = 143 mA
