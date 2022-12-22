@@ -21,7 +21,7 @@
 ![analisis 2](https://user-images.githubusercontent.com/86561660/209114419-ee2f6e54-3797-493a-8264-e50e06397b1c.png)
 
 ## 4.	Explicación y resolución de ejercicios o problemas
-
+### Capitulo 10
 
 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
 
@@ -180,7 +180,7 @@ I7 = 2.16 mA, I8 = 1.64 mA, VA = -3.70 V,
 
 VB = -5.85 V, VC = -15.7 V
 
-# CAPITULO 10
+### CAPITULO 9
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
