@@ -15,7 +15,7 @@
 
 ## 2.	Marco Teorico
 
-![analisi](https://user-images.githubusercontent.com/86561660/209114398-f1d4103c-95d7-4917-a4e0-53c9bdc17bdc.png)
+![analisi](https://user-images.githubusercontent.com/86561660/209115540-17e66288-e456-4fbd-83c0-54546b8c4f24.png)
 
 
 ![analisis 2](https://user-images.githubusercontent.com/86561660/209114419-ee2f6e54-3797-493a-8264-e50e06397b1c.png)
@@ -261,5 +261,13 @@ el voltaje máximo
 
 ![image](https://user-images.githubusercontent.com/86561660/209004047-b342725b-dca2-4480-8e42-50329f4761ca.png)
 
+5. VIDEO https://www.youtube.com/watch?v=23fCiERqe-k&t=27s&ab_channel=JosephFrancisco
 
+6.	CONCLUSIONES
+
+El presente deber logro mejorar mi resolución de ejercicios de la ley de ohm, energia y potencia, ademas de ayudarme a la comprension de los conceptos de voltaje, corriente y carga , también fue de gran ayuda para ampliar mi interpretación de la ley que riguen en los circuitos agregando que me permitió desarrollar la habilidad entender la relacion lineal de Voltaje respecto a la intensidad y la relacion inversa a la resistencia.
+
+7.	BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. México: PEARSON EDUCACIÓN.
 
