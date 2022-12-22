@@ -162,7 +162,7 @@ VA = 1.5 V, VB = -5.65 V
 
 
 
-* 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
+ 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
 
 ![image](https://user-images.githubusercontent.com/86561660/209001055-5a8a3e06-cd4b-4eed-a4bf-2023e713f554.png)
@@ -256,7 +256,7 @@ El ensamble de conmutador y escobillas conecta eléctricamente la espira al circ
 
 
 
-* 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V
+ 25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V
 el voltaje máximo
 
 ![image](https://user-images.githubusercontent.com/86561660/209004047-b342725b-dca2-4480-8e42-50329f4761ca.png)
@@ -265,7 +265,8 @@ el voltaje máximo
 
 6.	CONCLUSIONES
 
-El presente deber logro mejorar mi resolución de ejercicios de la ley de ohm, energia y potencia, ademas de ayudarme a la comprension de los conceptos de voltaje, corriente y carga , también fue de gran ayuda para ampliar mi interpretación de la ley que riguen en los circuitos agregando que me permitió desarrollar la habilidad entender la relacion lineal de Voltaje respecto a la intensidad y la relacion inversa a la resistencia.
+El presente deber logro mejorar mi resolución  de circuitos empleando diferentes metodos, ademas de ayudarme a la comprension de los conceptos ramas, lazos,y nodos , también fue de gran ayuda para ampliar mi interpretación de la ley de voltaje y corriente Kirchoff que riguen en los circuitos agregando que me permitió desarrollar la habilidad entender como usarlo en diferentes circuitos y finalmente entender las propiedades magneticas y electromagneticas de los cuerpos 
+
 
 7.	BIBLIOGRAFÍA
 
