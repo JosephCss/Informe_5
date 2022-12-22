@@ -161,7 +161,7 @@ VB = -5.85 V, VC = -15.7 V
 
 
 
-3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 3 1026 T y el área
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500*10^-6 T y el área
 de sección transversal mide 150 cm2
 
 37.5 uWb
